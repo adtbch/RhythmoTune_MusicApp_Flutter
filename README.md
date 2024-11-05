@@ -2,7 +2,7 @@
 
 RhythmoTune adalah aplikasi pemutar musik yang kaya fitur, dibangun dengan Flutter. Terinspirasi oleh [RhythmoTune Mobile App Concept](https://dribbble.com/shots/24908394-Music-Player-RhythmoTune-Mobile-App-Concept) di Dribbble, RhythmoTune menawarkan antarmuka yang intuitif dan menarik secara visual untuk pengalaman mendengarkan musik yang lebih baik.
 ![original-c42082fa98ed90c32c77ccd6893f4a7d](https://github.com/user-attachments/assets/346e703a-2bac-4d6b-afd2-44d6e81c80e6)
-https://github.com/user-attachments/assets/5033c3f5-ec19-4b40-b1ec-bcad46ff62bc
+[RhythmoTune Mobile App Concept]https://github.com/user-attachments/assets/5033c3f5-ec19-4b40-b1ec-bcad46ff62bc
 
 ## Fitur
 
@@ -17,14 +17,6 @@ https://github.com/user-attachments/assets/5033c3f5-ec19-4b40-b1ec-bcad46ff62bc
 ## Demo
 
 Karena demo aplikasi hanya tersedia secara lokal, Anda dapat melihat aplikasi ini beraksi dengan menjalankannya di perangkat Anda sendiri mengikuti proses instalasi di bawah ini. Navigasikan berbagai fitur seperti layar beranda, pemutar musik, dan manajemen playlist langsung di perangkat Anda.
-
-## Tangkapan Layar
-
-![Layar Beranda](assets/screenshots/home_screen.png)
-*Layar Beranda yang menampilkan genre dan lagu yang baru didengarkan.*
-
-![Layar Pemutar](assets/screenshots/player_screen.png)
-*Layar Pemutar dengan kontrol pemutaran dan detail lagu.*
 
 ## Proses Instalasi
 
