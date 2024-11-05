@@ -1,0 +1,31 @@
+name: music_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  palette_generator: ^0.3.2
+  google_fonts: ^6.2.1
+  just_audio: ^0.9.41
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/photos/
+    - assets/music/Die_With_A_Smile.mp3
+    - assets/music/Die_With_A_Smile (online-audio-converter.com).wav
+
+

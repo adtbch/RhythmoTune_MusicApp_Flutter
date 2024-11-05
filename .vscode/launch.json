@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "music_app",
+            "cwd": "music_app",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/core/config/main.dart"
+        },
+        {
+            "name": "music_app (profile mode)",
+            "cwd": "music_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "lib/core/config/main.dart"
+        },
+        {
+            "name": "music_app (release mode)",
+            "cwd": "music_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/core/config/main.dart"
+        }
+    ]
+}
